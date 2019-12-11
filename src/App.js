@@ -20,7 +20,7 @@ class App extends Component {
     clickedIds: [],
     score: 0,
     goal: 12,
-    status: ""
+    status: "Start by clicking any image. Don't click the same one more than once!"
   };
 
   runGame = id => {
