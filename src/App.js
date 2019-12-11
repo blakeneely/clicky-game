@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
+import Wrapper from "./components/Wrapper";
 import Cards from "./components/Cards";
 import Footer from "./components/Footer";
 import characters from "./characters.json";
@@ -66,7 +67,7 @@ class App extends Component {
           status={this.state.status}
           won={this.state.gamesWon}
         />
-        <div className="container">
+        <Wrapper>
         {this.state.characters.map(character => (
             <Cards
               runGame={this.runGame}
@@ -75,7 +76,7 @@ class App extends Component {
               image={character.image}
             />
           ))}
-        </div>
+        </Wrapper>
         <Footer />
       </div>
     )
