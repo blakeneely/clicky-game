@@ -3,18 +3,16 @@ import "./style.css";
 
 const Navbar = props => {
     return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-        <a className="navbar-brand order-0" href="#">Navbar w/ text</a>
-        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-            <span className="navbar-toggler-icon"></span>
-        </button>
-        <div className="collapse navbar-collapse" id="navbarText">
-            <span className="navbar-text order-1 gameScore">
-                {props.status}
-            </span>
-            <span className="navbar-text order-2 gameScore">
-                Score: {props.score} Won: {props.won}
-            </span>
+    <nav className="navbar sticky-top text-center">
+        <div className="order-0">
+            <img src="/images/star_wars_logo.png" height="60" width="90" className="d-inline-block align-top"></img>
+            <h4 className="nav-text">Clicky-Game</h4>
+        </div>
+        <div className="order-1">
+            <h4 className="text-warning status">{props.status}</h4>
+        </div>
+        <div className="order-2">
+            <h4 className="text-light">Score: {props.score}</h4>
         </div>
     </nav>
 

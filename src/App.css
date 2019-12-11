@@ -1,4 +1,7 @@
 .App {
   text-align: center;
-  /* background: black; */
+}
+body {
+  background: black url(/images/space.jpg) no-repeat 50% 50% fixed;
+  background-size: cover;
 }
