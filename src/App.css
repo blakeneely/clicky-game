@@ -2,6 +2,6 @@
   text-align: center;
 }
 body {
-  background: black url(../../images/space.jpg) no-repeat 50% 50% fixed;
+  background: black url(../images/space.jpg) no-repeat 50% 50% fixed;
   background-size: cover;
 }
