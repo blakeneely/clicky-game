@@ -9,10 +9,10 @@ const Navbar = props => {
             <h4 className="nav-text">Clicky-Game</h4>
         </div>
         <div className="order-1">
-            <h4 className="text-warning status">{props.status}</h4>
+            <h4 className="nav-text status">{props.status}</h4>
         </div>
         <div className="order-2">
-            <h4 className="text-light">Score: {props.score}</h4>
+            <h4 className="nav-text pr-1">Score: {props.score}</h4>
         </div>
     </nav>
 
