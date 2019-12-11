@@ -20,7 +20,7 @@ class App extends Component {
     characters: shuffleCards(characters),
     clickedIds: [],
     score: 0,
-    goal: 15,
+    goal: 12,
     status: ""
   };
 
@@ -38,9 +38,9 @@ class App extends Component {
     else {
       clickedIds.push(id)
 
-      if(clickedIds.length === 15) {
+      if(clickedIds.length === 12) {
         this.setState({
-          score: 8, 
+          score: 12, 
           status: "You won! Click to play again!",
           clickedIds: []
         })
