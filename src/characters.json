@@ -1,0 +1,60 @@
+[{
+    "id": 1,
+    "image": "../public/images/yoda.jpg"
+},
+{
+    "id": 2,
+    "image": "../public/images/boba_fett.jpg"
+},
+{
+    "id": 3,
+    "image": "../public/images/c_3p0.jpg"
+},
+{
+    "id": 4,
+    "image": "../public/images/chewbacca.jpg"
+},
+{
+    "id": 5,
+    "image": "../public/images/darth_maul.jpg"
+},
+{
+    "id": 6,
+    "image": "../public/images/darth_vader.jpg"
+},
+{
+    "id": 7,
+    "image": "../public/images/emperor.jpg"
+},
+{
+    "id": 8,
+    "image": "../public/images/finn.jpg"
+},
+{
+    "id": 9,
+    "image": "../public/images/han_solo.jpg"
+},
+{
+    "id": 10,
+    "image": "../public/images/luke_skywalker.jpg"
+},
+{
+    "id": 11,
+    "image": "../public/images/leia.jpg"
+},
+{
+    "id": 12,
+    "image": "../public/images/rey.jpg"
+},
+{
+    "id": 13,
+    "image": "../public/images/poe_dameron.jpg"
+},
+{
+    "id": 14,
+    "image": "../public/images/obi_wan.jpg"
+},
+{
+    "id": 15,
+    "image": "../public/images/kylo_ren.jpg"
+}]
