@@ -3,7 +3,7 @@ import "./style.css";
 
 const Card = props => (
     <div className="card img-container hvr-bounce-in">
-        <img alt={props.name} src={props.image} id={props.id}
+        <img className="img-responsive" src={props.image} id={props.id} alt={props.name}
             onClick={() => props.runGame(props.id)} />
     </div>
 );

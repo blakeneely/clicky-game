@@ -4,7 +4,7 @@
 },
 {
     "id": 2,
-    "image": ".images/chewbacca.jpg"
+    "image": "./images/chewbacca.jpg"
 },
 {
     "id": 3,
