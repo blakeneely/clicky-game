@@ -1,48 +1,48 @@
 [{
     "id": 1,
-    "image": "/public/images/yoda.jpg"
+    "image": "/images/yoda.jpg"
 },
 {
     "id": 2,
-    "image": "/public/images/chewbacca.jpg"
+    "image": "/images/chewbacca.jpg"
 },
 {
     "id": 3,
-    "image": "/public/images/darth_vader.jpg"
+    "image": "/images/darth_vader.jpg"
 },
 {
     "id": 4,
-    "image": "/public/images/emperor.jpg"
+    "image": "/images/emperor.jpg"
 },
 {
     "id": 5,
-    "image": "/public/images/finn.jpg"
+    "image": "/images/finn.jpg"
 },
 {
     "id": 6,
-    "image": "/public/images/han_solo.jpg"
+    "image": "/images/han_solo.jpg"
 },
 {
     "id": 7,
-    "image": "/public/images/luke_skywalker.jpg"
+    "image": "/images/luke_skywalker.jpg"
 },
 {
     "id": 8,
-    "image": "/public/images/leia.jpg"
+    "image": "/images/leia.jpg"
 },
 {
     "id": 9,
-    "image": "/public/images/rey.jpg"
+    "image": "/images/rey.jpg"
 },
 {
     "id": 10,
-    "image": "/public/images/poe_dameron.jpg"
+    "image": "/images/poe_dameron.jpg"
 },
 {
     "id": 11,
-    "image": "/public/images/obi_wan.jpg"
+    "image": "/images/obi_wan.jpg"
 },
 {
     "id": 12,
-    "image": "/public/images/kylo_ren.jpg"
+    "image": "/images/kylo_ren.jpg"
 }]
