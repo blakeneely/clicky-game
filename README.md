@@ -1,1 +1,5 @@
-# clicky-game
+# Clicky Game
+
+## Description
+
+## Instructions
